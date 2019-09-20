@@ -1,0 +1,7 @@
+\\sit.inet\sit\home\Students\700375\Bachelor of IT\513 Programming\LabEx19 - Fractions\LabEx19 - Fractions\bin\Debug\LabEx19 - Fractions.exe.config
+\\sit.inet\sit\home\Students\700375\Bachelor of IT\513 Programming\LabEx19 - Fractions\LabEx19 - Fractions\bin\Debug\LabEx19 - Fractions.exe
+\\sit.inet\sit\home\Students\700375\Bachelor of IT\513 Programming\LabEx19 - Fractions\LabEx19 - Fractions\bin\Debug\LabEx19 - Fractions.pdb
+\\sit.inet\sit\home\Students\700375\Bachelor of IT\513 Programming\LabEx19 - Fractions\LabEx19 - Fractions\obj\Debug\LabEx19 - Fractions.csprojAssemblyReference.cache
+\\sit.inet\sit\home\Students\700375\Bachelor of IT\513 Programming\LabEx19 - Fractions\LabEx19 - Fractions\obj\Debug\LabEx19 - Fractions.csproj.CoreCompileInputs.cache
+\\sit.inet\sit\home\Students\700375\Bachelor of IT\513 Programming\LabEx19 - Fractions\LabEx19 - Fractions\obj\Debug\LabEx19 - Fractions.exe
+\\sit.inet\sit\home\Students\700375\Bachelor of IT\513 Programming\LabEx19 - Fractions\LabEx19 - Fractions\obj\Debug\LabEx19 - Fractions.pdb
